@@ -1,0 +1,30 @@
+---
+id: 9284723
+name: Venom Boa
+type: Effect Monster
+frameType: effect
+desc: Once per turn, you can place 2 Venom Counters on 1 monster your opponent controls.
+  If you activate this effect, this card cannot attack during this turn.
+atk: 1600
+def: 1200
+level: 5
+race: Reptile
+attribute: EARTH
+archetype: Venom
+card_sets:
+- set_name: Tactical Evolution
+  set_code: TAEV-EN016
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.85'
+card_images:
+- id: 9284723
+  image_url: https://images.ygoprodeck.com/images/cards/9284723.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/9284723.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/9284723.jpg
+card_prices:
+- cardmarket_price: '0.35'
+  tcgplayer_price: '0.45'
+  ebay_price: '1.00'
+  amazon_price: '2.19'
+  coolstuffinc_price: '0.49'

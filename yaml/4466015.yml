@@ -1,0 +1,26 @@
+---
+id: 4466015
+name: Venom Burn
+type: Trap Card
+frameType: trap
+desc: Select 1 monster with a Venom Counter(s). Remove all Venom Counters from that
+  card, and inflict 700 damage to your opponent for each Venom Counter removed.
+race: Normal
+archetype: Venom
+card_sets:
+- set_name: Tactical Evolution
+  set_code: TAEV-EN071
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.11'
+card_images:
+- id: 4466015
+  image_url: https://images.ygoprodeck.com/images/cards/4466015.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/4466015.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/4466015.jpg
+card_prices:
+- cardmarket_price: '0.26'
+  tcgplayer_price: '0.22'
+  ebay_price: '1.75'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'

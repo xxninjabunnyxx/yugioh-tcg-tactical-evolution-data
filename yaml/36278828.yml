@@ -1,0 +1,29 @@
+---
+id: 36278828
+name: Venom Serpent
+type: Effect Monster
+frameType: effect
+desc: Once per turn, you can place 1 Venom Counter on 1 monster your opponent controls.
+atk: 1000
+def: 800
+level: 4
+race: Reptile
+attribute: DARK
+archetype: Venom
+card_sets:
+- set_name: Tactical Evolution
+  set_code: TAEV-EN017
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '2.12'
+card_images:
+- id: 36278828
+  image_url: https://images.ygoprodeck.com/images/cards/36278828.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/36278828.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/36278828.jpg
+card_prices:
+- cardmarket_price: '0.75'
+  tcgplayer_price: '0.29'
+  ebay_price: '1.25'
+  amazon_price: '2.31'
+  coolstuffinc_price: '0.79'
